@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Hé lô anh iuuuu',
-    introDesc: `Mấy nay biết anh có chuyện buồn
-    Mà em có hơi sống chó một xíu
-    Em biết em sai rùi 
-    Nên em sẽ xin lũi anh bằng cách tặng cho anh cái này`,
+    introTitle: 'Hé lô anh yêu',
+    introDesc: `Mấy nay có chuyện buồn đúng hong nè
+    Không cần nói bố mày cũng biết ròi hihi
+    Chời ơi tui hiểu quá mà 
+    Thôi không buồn nữa nè có quà tặng cho anh nè`,
     btnIntro: 'Nhấp vào đây để nhận quà của bé iu',
     title: 'Ngoài kia nếu có khó khăn quá',
     desc: 'Thì về đây đã có em chờ :3 ',
